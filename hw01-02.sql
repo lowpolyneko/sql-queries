@@ -1,0 +1,1 @@
+SELECT DISTINCT DATE(Ride_Date) FROM Ridership ORDER BY Ride_Date DESC
